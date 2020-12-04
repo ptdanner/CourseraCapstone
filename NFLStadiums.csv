@@ -1,33 +1,33 @@
-Team,Division,Stadium,Capacity,Address,,,,,,,,
-Buffalo Bills,AFC East,Bills Stadium,"71,608","One Bills Drive, Orchard Park, NY 14127",,,,,,,,
-Miami Dolphins,AFC East,Hard Rock Stadium,"65,326","347 Don Shula Dr, Miami Gardens, FL 33056",,,,,,,,
-New England Patriots,AFC East,Gillette Stadium,"66,829","1 Patriot Pl, Foxborough, MA 02035",,,,,,,,
-New York Jets,AFC East,MetLife Stadium,"82,500","1 MetLife Stadium Dr, East Rutherford, NJ 07073",,,,,,,,
-Baltimore Ravens,AFC North,M&T Bank Stadium,"71,008","1101 Russell Street, Baltimore, MD 21230",,,,,,,,
-Cincinnati Bengals,AFC North,Paul Brown Stadium,"65,515","One Paul Brown Stadium, Cincinnati, OH 45202",,,,,,,,
-Cleveland Browns,AFC North,FirstEnergy Stadium,"67,895","100 Alfred Lerner Way, Cleveland, OH 44114",,,,,,,,
-Pittsburgh Steelers,AFC North,Heinz Field,"68,400","100 Art Rooney Ave, Pittsburgh, PA 15212",,,,,,,,
-Houston Texans,AFC South,NRG Stadium,"72,220","NRG Pkwy, Houston, TX 77054",,,,,,,,
-Indianapolis Colts,AFC South,Lucas Oil Stadium,"67,000","500 S Capitol Ave, Indianapolis, IN 46225",,,,,,,,
-Jacksonville Jaguars,AFC South,TIAA Bank Field,"69,132","1 Everbank Field Drive, Jacksonville, FL 32202",,,,,,,,
-Tennessee Titans,AFC South,Nissan Stadium,"69,143","1 Titans Way, Nashville, TN 37213",,,,,,,,
-Denver Broncos,AFC West,Empower Field at Mile High,"76,125","1701 Bryant St, Denver, CO 80204",,,,,,,,
-Kansas City Chiefs,AFC West,Arrowhead Stadium,"76,416","One Arrowhead Drive, Kansas City, MO 64129",,,,,,,,
-Las Vegas Raiders,AFC West,Allegiant Stadium,"65,000","3333 Al Davis Way, Las Vegas, NV 89118",,,,,,,,
-Los Angeles Chargers,AFC West,SoFi Stadium,"70,240","1000 S Prairie Ave, Inglewood, CA 90301",,,,,,,,
-Dallas Cowboys,NFC East,AT&T Stadium,"80,000","One AT&T Way, Arlington, TX 76011",,,,,,,,
-New York Giants,NFC East,MetLife Stadium,"82,500","1 MetLife Stadium Dr, East Rutherford, NJ 07073",,,,,,,,
-Philadelphia Eagles,NFC East,Lincoln Financial Field,"69,596","One Lincoln Financial Field Way, Philadelphia, PA 19103",,,,,,,,
-Washington Redskins,NFC East,FedExField,"82,000","1600 Fedex Way, Landover, MD 20785",,,,,,,,
-Chicago Bears,NFC North,Soldier Field,"61,500","1410 Museum Campus Dr, Chicago, IL 60605",,,,,,,,
-Detroit Lions,NFC North,Ford Field,"65,000","2000 Brush St, Detroit, MI 48226",,,,,,,,
-Green Bay Packers,NFC North,Lambeau Field,"81,441","1265 Lombardi Avenue, Green Bay, WI 54304",,,,,,,,
-Minnesota Vikings,NFC North,U.S. Bank Stadium,"66,655","401 Chicago Ave, Minneapolis, MN 55415",,,,,,,,
-Atlanta Falcons,NFC South,Mercedes-Benz Stadium,"71,000","409 Nelson St SW, Atlanta, GA 30313",,,,,,,,
-Carolina Panthers,NFC South,Bank of America Stadium,"75,523","800 South Mint Street, Charlotte, NC 28202",,,,,,,,
-New Orleans Saints,NFC South,Mercedes-Benz Superdome,"73,208","1500 Sugar Bowl Dr, New Orleans, LA 70112",,,,,,,,
-Tampa Bay Buccaneers,NFC South,Raymond James Stadium,"65,890","4201 N Dale Mabry Hwy, Tampa, FL 33607",,,,,,,,
-Arizona Cardinals,NFC West,Sundevil Football Stadium,"63,400","500 E Veterans Way, Tempe, AZ 85287",,,,,,,,
-Los Angeles Rams,NFC West,SoFi Stadium,"70,240","1000 S Prairie Ave, Inglewood, CA 90301",,,,,,,,
-San Francisco 49ers,NFC West,Levi's Stadium,"68,500","4900 Marie P DeBartolo Way, Santa Clara, CA 95054",,,,,,,,
-Seattle Seahawks,NFC West,Lumen Field,"69,000","800 Occidental Ave S, Seattle, WA 98134",,,,,,,,
+Team,Division,Stadium,Capacity,Address
+Buffalo Bills,AFC East,Bills Stadium,"71,608",One Bills Drive: Orchard Park: NY 14127
+Miami Dolphins,AFC East,Hard Rock Stadium,"65,326",347 Don Shula Dr: Miami Gardens: FL 33056
+New England Patriots,AFC East,Gillette Stadium,"66,829",1 Patriot Pl: Foxborough: MA 02035
+New York Jets,AFC East,MetLife Stadium,"82,500",1 MetLife Stadium Dr: East Rutherford: NJ 07073
+Baltimore Ravens,AFC North,M&T Bank Stadium,"71,008",1101 Russell Street: Baltimore: MD 21230
+Cincinnati Bengals,AFC North,Paul Brown Stadium,"65,515",One Paul Brown Stadium: Cincinnati: OH 45202
+Cleveland Browns,AFC North,FirstEnergy Stadium,"67,895",100 Alfred Lerner Way: Cleveland: OH 44114
+Pittsburgh Steelers,AFC North,Heinz Field,"68,400",100 Art Rooney Ave: Pittsburgh: PA 15212
+Houston Texans,AFC South,NRG Stadium,"72,220",NRG Pkwy: Houston: TX 77054
+Indianapolis Colts,AFC South,Lucas Oil Stadium,"67,000",500 S Capitol Ave: Indianapolis: IN 46225
+Jacksonville Jaguars,AFC South,TIAA Bank Field,"69,132",1 Everbank Field Drive: Jacksonville: FL 32202
+Tennessee Titans,AFC South,Nissan Stadium,"69,143",1 Titans Way: Nashville: TN 37213
+Denver Broncos,AFC West,Empower Field at Mile High,"76,125",1701 Bryant St: Denver: CO 80204
+Kansas City Chiefs,AFC West,Arrowhead Stadium,"76,416",One Arrowhead Drive: Kansas City: MO 64129
+Las Vegas Raiders,AFC West,Allegiant Stadium,"65,000",3333 Al Davis Way: Las Vegas: NV 89118
+Los Angeles Chargers,AFC West,SoFi Stadium,"70,240",1000 S Prairie Ave: Inglewood: CA 90301
+Dallas Cowboys,NFC East,AT&T Stadium,"80,000",One AT&T Way: Arlington: TX 76011
+New York Giants,NFC East,MetLife Stadium,"82,500",1 MetLife Stadium Dr: East Rutherford: NJ 07073
+Philadelphia Eagles,NFC East,Lincoln Financial Field,"69,596",One Lincoln Financial Field Way: Philadelphia: PA 19103
+Washington Redskins,NFC East,FedExField,"82,000",1600 Fedex Way: Landover: MD 20785
+Chicago Bears,NFC North,Soldier Field,"61,500",1410 Museum Campus Dr: Chicago: IL 60605
+Detroit Lions,NFC North,Ford Field,"65,000",2000 Brush St: Detroit: MI 48226
+Green Bay Packers,NFC North,Lambeau Field,"81,441",1265 Lombardi Avenue: Green Bay: WI 54304
+Minnesota Vikings,NFC North,U.S. Bank Stadium,"66,655",401 Chicago Ave: Minneapolis: MN 55415
+Atlanta Falcons,NFC South,Mercedes-Benz Stadium,"71,000",409 Nelson St SW: Atlanta: GA 30313
+Carolina Panthers,NFC South,Bank of America Stadium,"75,523",800 South Mint Street: Charlotte: NC 28202
+New Orleans Saints,NFC South,Mercedes-Benz Superdome,"73,208",1500 Sugar Bowl Dr: New Orleans: LA 70112
+Tampa Bay Buccaneers,NFC South,Raymond James Stadium,"65,890",4201 N Dale Mabry Hwy: Tampa: FL 33607
+Arizona Cardinals,NFC West,Sundevil Football Stadium,"63,400",500 E Veterans Way: Tempe: AZ 85287
+Los Angeles Rams,NFC West,SoFi Stadium,"70,240",1000 S Prairie Ave: Inglewood: CA 90301
+San Francisco 49ers,NFC West,Levi's Stadium,"68,500",4900 Marie P DeBartolo Way: Santa Clara: CA 95054
+Seattle Seahawks,NFC West,Lumen Field,"69,000",800 Occidental Ave S: Seattle: WA 98134
